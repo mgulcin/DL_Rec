@@ -10,7 +10,7 @@ This work combines ideas from  Word2Vec and recommendation systems:
   - Recommendation based on both K nearest items and N neighbors
 
 
-Refer to following paper whenever all or any part of this code is used.
+Cite the following paper whenever all or any part of this code is used.
 
 - Makbule Gulcin Ozsoy: From Word Embeddings to Item Recommendation. https://arxiv.org/abs/1601.01356
 
