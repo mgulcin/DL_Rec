@@ -37,7 +37,7 @@ def train_word2vec_model(modelFolder, sentences, featureCount = None, contextCou
     else:
         num_features = featureCount
         
-    max_vocab_size=None,
+    max_vocab_size=None
     min_word_count = 1    # Minimum word count
     num_workers = 1       # Number of threads to run in parallel
     
